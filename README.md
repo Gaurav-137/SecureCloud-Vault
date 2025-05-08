@@ -1,2 +1,1 @@
-# SecureCloud-Vault
-SecureCloud Vault-A Zero Trust File Storage and Access Management System
+# SecureCloud Vault-SecureCloud Vault-A Zero Trust File Storage and Access Management System
