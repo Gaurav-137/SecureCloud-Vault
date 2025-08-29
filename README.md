@@ -35,11 +35,6 @@ This project showcases **real-world cloud security skills** and can scale from p
 - **CloudWatch Logs & Metrics**
 - **SNS Alerts** on anomalies (suspicious IPs, request spikes)
 
-User → [JWT] → API Gateway → Lambda → S3 (SSE-KMS)
-↘︎ DynamoDB / RDS
-Cognito/Firebase ↗︎
----
-
 ## 🔐 Key Security Principles
 
 - **Zero Trust** → every request is re-authenticated & authorized
