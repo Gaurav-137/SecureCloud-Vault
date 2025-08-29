@@ -48,14 +48,14 @@ This project showcases **real-world cloud security skills** and can scale from p
 
 ---
 
-## 🚀 Demo Scenarios (for recruiters/interviewers)
+<!--## 🚀 Demo Scenarios (for recruiters/interviewers)
 
 1. **Upload a File** → Presigned PUT URL → Encrypted in S3 (verify via metadata).
 2. **Time-Bound Share** → Share with another user for 2 minutes → Attempt after expiry → Access Denied.
 3. **Audit Logs** → Admin views recent file actions and anomalies.
 4. **Anomaly Detection** → Trigger multiple downloads → SNS alert sent to user + admin.
 
----
+---  -->
 
 ## ⚙️ Tech Stack
 
