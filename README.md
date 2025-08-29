@@ -1,4 +1,4 @@
-# SecureCloud Vault-A Zero Trust File Storage and Access Management System
+# SecureCloud Vault - A Zero Trust File Storage and Access Management System
 
 A security-first file storage system that enforces **least privilege**, **short-lived presigned access**, and **end-to-end auditing** on AWS.
 
